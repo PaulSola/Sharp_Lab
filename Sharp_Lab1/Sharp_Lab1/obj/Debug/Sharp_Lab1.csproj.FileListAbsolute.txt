@@ -1,0 +1,6 @@
+C:\Users\Pasha-Sola\source\repos\Sharp_Lab1\Sharp_Lab1\bin\Debug\Sharp_Lab1.exe.config
+C:\Users\Pasha-Sola\source\repos\Sharp_Lab1\Sharp_Lab1\bin\Debug\Sharp_Lab1.exe
+C:\Users\Pasha-Sola\source\repos\Sharp_Lab1\Sharp_Lab1\bin\Debug\Sharp_Lab1.pdb
+C:\Users\Pasha-Sola\source\repos\Sharp_Lab1\Sharp_Lab1\obj\Debug\Sharp_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha-Sola\source\repos\Sharp_Lab1\Sharp_Lab1\obj\Debug\Sharp_Lab1.exe
+C:\Users\Pasha-Sola\source\repos\Sharp_Lab1\Sharp_Lab1\obj\Debug\Sharp_Lab1.pdb
