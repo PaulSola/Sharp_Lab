@@ -1,0 +1,7 @@
+C:\Users\Pasha-Sola\source\repos\Sharp_lab2\Sharp_lab2\obj\Debug\Sharp_lab2.csprojResolveAssemblyReference.cache
+C:\Users\Pasha-Sola\source\repos\Sharp_lab2\Sharp_lab2\obj\Debug\Sharp_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Pasha-Sola\source\repos\Sharp_lab2\Sharp_lab2\bin\Debug\Sharp_lab2.exe.config
+C:\Users\Pasha-Sola\source\repos\Sharp_lab2\Sharp_lab2\bin\Debug\Sharp_lab2.exe
+C:\Users\Pasha-Sola\source\repos\Sharp_lab2\Sharp_lab2\bin\Debug\Sharp_lab2.pdb
+C:\Users\Pasha-Sola\source\repos\Sharp_lab2\Sharp_lab2\obj\Debug\Sharp_lab2.exe
+C:\Users\Pasha-Sola\source\repos\Sharp_lab2\Sharp_lab2\obj\Debug\Sharp_lab2.pdb
