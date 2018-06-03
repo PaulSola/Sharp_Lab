@@ -32,6 +32,7 @@ namespace Sharp_lab2
             int c = 2; // int c =0;
             try
             {
+                if (c == 0) { throw new DivideByZero(); }
                 a = b / c;
             }
             catch (DivideByZero e)
